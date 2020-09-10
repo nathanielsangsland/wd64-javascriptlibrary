@@ -1,0 +1,27 @@
+.align {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.mainTable{
+    background-color: skyblue;
+    text-align: center;
+    display: grid;
+    border: solid;
+    padding: 25px;
+}
+
+.titleMovie{
+    font-style: italic;
+    color: red;
+    text-align: center;
+    font;
+}
+
+table {
+    border: 2px solid black;
+}
+
+tr {
+    border: 2px solid black;
+}
