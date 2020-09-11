@@ -35,8 +35,8 @@ console.log('3' !== 3);
 //? Less Than or Equal to
 2 <= 3;
 
-//? And
-2 && 33;
+//? And 
+2 && 33; // this should change something
 
 
 //? Or
