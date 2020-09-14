@@ -1,0 +1,576 @@
+/*.wrapper{
+  /*  text-align: center;
+    position: relative;
+    padding: 0%;
+    margin: 0%;*/
+
+}
+
+/*.dropDownMenu{
+background: color 0;;
+height: 350px;
+}
+
+.dropDownMenu{
+    width: 100%;
+    height: 350px;
+    background-color: gray;
+}
+
+.dropDownMenu p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 20px;
+    line-height: 55px;
+    float: left;
+    padding: 0px 20px;
+}
+
+.dropDownMenu ul{
+    float: left;
+}
+
+.dropDownMenu ul li{
+    float: left;
+    list-style: none;
+    position: relative;
+}
+.dropDownMenu ul li a{
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222;
+    font-size: 25px;
+    padding: 24px 14px;
+    text-decoration: none;
+}
+
+.dropDownMenu ul li ul{
+    display: block;
+    position: absolute;
+    background-color: #fff;
+    padding: 12px 14px;
+    padding: 10px;
+
+}
+
+.dropDownMenu ul li ul li {
+    width: 180px;
+
+}
+
+.dropDownMenu ul li ul li a{
+    display: block;
+    position: absolute;
+    background-color: #fff;
+
+}
+
+.dropDownMenu ul li ul li a:hover {position: absolute;
+    background-color: #f3f3f3;
+
+}*/
+/*
+:root{
+    --primary-color: rgb(74, 74, 193,);
+    --overlay-color: rgb(135, 135, 228);
+    --menu-speed: 0.75s;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4px;
+}
+
+.container{
+    max-width: 960px;
+    margin: auto;
+    overflow: hidden;
+    padding: 3rem;
+}
+
+.showcase{
+    background-color: var(--primary-color);
+    color: white;
+
+}
+*/
+.container1{
+    position: relative;
+    display: inline-block;
+    
+
+}
+
+.tinyBut3{
+    position: relative;
+    top: -650px;
+    left: 1275px;
+    color: White;
+    background-color: none ;
+    text-decoration: none;
+    border: ;
+    border-radius: 15px;
+    height: 00px;
+    width: 00px;
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-variant-caps: ;
+}
+
+
+.oneMonthFree{
+    position: absolute;
+    top: 18%;
+    width: 250px;
+    left: 39%;
+    z-index: 998;
+    text-align: center;
+    margin: 0 auto;
+    color: #31d697;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    border: 0 ;
+}
+.watchThousandsOfShows{
+    position: absolute;
+    top: 50%;
+    width: 800px;
+    left: 19%;
+    z-index: 998;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 27px;
+    border: ;
+    
+}
+
+.freeTrail{
+    position: absolute;
+    top: 88%;
+    width: 800px;
+    left: 19%;
+    z-index: 998;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: ;
+    font-size: 12px;
+    opacity: 55%;
+    border: ;
+}
+
+.HboShowtimeCinemax{
+    position: absolute;
+    top: 65%;
+    width: 800px;
+    left: 19%;
+    z-index: 998;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: ;
+    font-size: 20px;
+    border:0 ;
+
+}
+
+/*.startYourFreeButton{
+    position: relative;
+    width: 300px;
+    height: 50px;
+    top: -200px;
+    left: 500px;
+    margin-top: 0;
+    margin-right: 0;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+    font-variant-caps: normal;    
+    background-color:#31d697 ;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px 15px 15px 15px;
+    transform-origin: center;
+
+
+}*/
+
+/*.link1{
+    position: relative;
+    z-index: 1;
+    top: -160px;
+    left: 556px;
+    width: 135px;
+    display: ruby;
+    border-radius: 15px, 15px, 15px, 15px;
+    background-color: #31d697;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+
+}
+.button{
+    background-color: #31d697;
+    color: black;
+
+
+}*/
+
+.tinyBut{
+    position: relative;
+    top: -190px;
+    left: 545px;
+    color: black;
+    background-color:#31d697 ;
+    border: solid 3px #31d697;
+    border-radius: 5px;
+    text-decoration: none;
+    height: 00px;
+    width: 400px;
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-variant-caps: 
+    
+}
+/*.buttonbackground{
+    position: relative;
+    z-index: -1;
+    top: -210px;
+    left: 505px;
+    width: 300px;
+    height: 100px;
+    border-radius: 15px 15px 15px 15px;
+    background-color:#31d697 ;
+}*/
+
+
+.hulu-logo{
+    z-index: 999;
+}
+
+.Homepage_Masthead_background{
+    top: 0;
+    left: 0;
+    position: relative;
+    z-index: -3;
+    width: 1400px;
+    height: 700px;
+    background-image: url(./images/Homepage_Masthead_Test.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border:solid 1px black;
+    background-position: center;
+}
+
+#HuluDisneyEspenLogo {
+    top: 420px;
+    left: 100px;
+    width: 1400px;
+    height: 300px;
+    background-image: url(./images/HuluDisneyEspenLogo.jpg);
+    z-index: 1;
+    background-size: 75%;
+    background-repeat: no-repeat;
+    border:solid 1px black;
+    position: absolute;
+    
+}
+
+#hulu-logo{
+    top: 200px;
+    left: 500px;
+    width: 1400px;
+    height: 300px;
+    background-image: url(./images/hulu-logo.jpg);
+    z-index: 1;
+    background-size: 25%;
+    background-repeat: no-repeat;
+    border: ;
+    position: absolute;
+}
+
+.container2{
+    position: relative;
+    display: inline-block;
+
+}
+.green-background{
+    top: -60px;
+    left: 0;
+    position: relative;
+    z-index: -2;
+    width: 1400px;
+    height: 250px;
+    background: linear-gradient(to right, #002526 0%, #026a6e 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border:solid 1px black;
+    background-position: center;
+}
+
+#huluDisneyEspenLogo2 {
+    top: 50px;
+    left: 30px;
+    width: 500px;
+    height: 1200px;
+    background-image: url(./images/HuluDisneyEspenLogo.jpg);
+    z-index: 999;
+    background-size: 75%;
+    background-repeat: no-repeat;
+    border: ;
+    position: absolute;
+}
+
+
+.bundleAndSave{
+    position: absolute;
+    top: 20px;
+    width: 250px;
+    left: 36%;
+    z-index: 1;
+    text-align: center;
+    margin: 0 auto;
+    color: #31d697;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    border: ;
+}
+
+#getHuluAndDisney{
+    position: absolute;
+    top: 80px;
+    width: 800px;
+    left: 24%;
+    z-index: 998;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: ;
+    font-size: 20px;
+    border: ;
+}
+
+.tinyBut2{
+    position: relative;
+    top: -180px;
+    left: 1200px;
+    color: white;
+    background-color: none ;
+    text-decoration: none;
+    border: solid 3px white;
+    border-radius: 15px;
+    height: 00px;
+    width: 00px;
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-variant-caps: ;
+}
+
+.moreDetails{
+    position: relative;
+    top: 150px;
+    left: 520px;
+    color: rgba(255, 255, 255, 0.463);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.termsApply{
+    position: relative;
+    top: 150px;
+    left: 1145px;
+    color: rgba(255, 255, 255, 0.463);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.movieBackground{
+    top: -90px;
+    left:00px;
+    position: relative;
+    z-index: -3;
+    width: 1400px;
+    height: 780px;
+    background-image: url(./images/Desktop\ background.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border:solid 1px black;
+    background-position:0 ;
+}
+
+.SelectYourPlan{
+    position: absolute;
+    top: 1770px;
+    width: 800px;
+    left: 19%;
+    z-index: 998;
+    text-align: center;
+    margin: 0 auto;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    border: 0;
+}
+
+.noHiddenFees{
+    position: absolute;
+    top: 1840px;
+    width: 800px;
+    left: 19%;
+    z-index: 998;
+    text-align: center;
+    margin: 0 auto;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 0 ;
+    font-size: 20px;
+    border: 
+}
+
+.switchPlans{
+    position: absolute;
+    top: 1880px;
+    width: 800px;
+    left: 19%;
+    z-index: 998;
+    text-align: center;
+    margin: 0 auto;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    border: 0;
+}
+
+.container4{
+    position: relative;
+    width: 350px;
+    height: 200px;
+    top: 125px;
+    left: 0px;
+    border: ;
+    text-align: center;
+    float: left;
+
+}
+
+.tinyBut5{
+    position: relative;
+    top: 90px;
+    left: 0px;
+    color: white;
+    background-color:  black ;
+    text-decoration: none;
+    border: solid 3px black;
+    border-radius: 15px;
+    height: 00px;
+    width: 00px;
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-variant-caps: ;
+}
+
+.Hulu1{
+    position: relative;
+    top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    color: black;
+    font-weight: bolder;
+
+}
+
+.daytrial{
+    position: relative;
+    top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bolder;
+    color: gray;
+    
+}
+
+.mostpoplar{
+    position: relative;
+    top: -50px;
+    left: 70px;
+    width: 200px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: white;
+    font-weight: bolder;
+    background-color: gray;
+    border: 7px solid gray;
+    border-radius: 15px;
+
+}
+
+
+.container5{
+    position: relative;
+    width: 600px;
+    height: 200px;
+    top: 125px;
+    border: ;
+    text-align: center;
+    float: left;
+
+}
+
+.container6{
+    position: relative;
+    width: 350px;
+    height: 200px;
+    top: 125px;
+    border: ;
+    text-align: center;
+    float: left;
+
+}
+
+.gridcontainer{
+    width: 100%;
+    position: relative;
+    top: 120px;
+    display: grid;
+    grid-template-columns: 350px 600px 350px;
+    
+    padding: 10px;
+    
+}
+
+
+
+.grid{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    border: solid 1px gainsboro;
+    text-align: center;
+    
+   
+   
+}
+
+
+.grid:nth-child(even){
+    background-color:whitesmoke;
+}
